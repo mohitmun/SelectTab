@@ -1,0 +1,12 @@
+[
+  { "keys": ["ctrl+1"], "command": "select_tab", "args" : {"tab": "1"} },
+  { "keys": ["ctrl+2"], "command": "select_tab", "args" : {"tab": "2"} },
+  { "keys": ["ctrl+3"], "command": "select_tab", "args" : {"tab": "3"} },
+  { "keys": ["ctrl+4"], "command": "select_tab", "args" : {"tab": "4"} },
+  { "keys": ["ctrl+5"], "command": "select_tab", "args" : {"tab": "5"} },
+  { "keys": ["ctrl+6"], "command": "select_tab", "args" : {"tab": "6"} },
+  { "keys": ["ctrl+7"], "command": "select_tab", "args" : {"tab": "7"} },
+  { "keys": ["ctrl+8"], "command": "select_tab", "args" : {"tab": "8"} },
+  { "keys": ["ctrl+9"], "command": "select_tab", "args" : {"tab": "9"} },
+  { "keys": ["ctrl+1+0"], "command": "select_tab", "args" : {"tab": "10"} }
+]
